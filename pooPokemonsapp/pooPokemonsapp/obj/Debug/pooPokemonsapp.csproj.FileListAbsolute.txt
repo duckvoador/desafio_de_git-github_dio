@@ -1,0 +1,8 @@
+C:\Users\DuckVoador\source\repos\pooPokemonsapp\pooPokemonsapp\bin\Debug\pooPokemonsapp.exe.config
+C:\Users\DuckVoador\source\repos\pooPokemonsapp\pooPokemonsapp\bin\Debug\pooPokemonsapp.exe
+C:\Users\DuckVoador\source\repos\pooPokemonsapp\pooPokemonsapp\bin\Debug\pooPokemonsapp.pdb
+C:\Users\DuckVoador\source\repos\pooPokemonsapp\pooPokemonsapp\obj\Debug\pooPokemonsapp.csproj.AssemblyReference.cache
+C:\Users\DuckVoador\source\repos\pooPokemonsapp\pooPokemonsapp\obj\Debug\pooPokemonsapp.csproj.SuggestedBindingRedirects.cache
+C:\Users\DuckVoador\source\repos\pooPokemonsapp\pooPokemonsapp\obj\Debug\pooPokemonsapp.csproj.CoreCompileInputs.cache
+C:\Users\DuckVoador\source\repos\pooPokemonsapp\pooPokemonsapp\obj\Debug\pooPokemonsapp.exe
+C:\Users\DuckVoador\source\repos\pooPokemonsapp\pooPokemonsapp\obj\Debug\pooPokemonsapp.pdb
