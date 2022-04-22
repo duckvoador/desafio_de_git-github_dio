@@ -1,0 +1,8 @@
+C:\Users\DuckVoador\source\repos\AhoraDoPich\AhoraDoPich\bin\Debug\AhoraDoPich.exe.config
+C:\Users\DuckVoador\source\repos\AhoraDoPich\AhoraDoPich\bin\Debug\AhoraDoPich.exe
+C:\Users\DuckVoador\source\repos\AhoraDoPich\AhoraDoPich\bin\Debug\AhoraDoPich.pdb
+C:\Users\DuckVoador\source\repos\AhoraDoPich\AhoraDoPich\obj\Debug\AhoraDoPich.csproj.AssemblyReference.cache
+C:\Users\DuckVoador\source\repos\AhoraDoPich\AhoraDoPich\obj\Debug\AhoraDoPich.csproj.SuggestedBindingRedirects.cache
+C:\Users\DuckVoador\source\repos\AhoraDoPich\AhoraDoPich\obj\Debug\AhoraDoPich.csproj.CoreCompileInputs.cache
+C:\Users\DuckVoador\source\repos\AhoraDoPich\AhoraDoPich\obj\Debug\AhoraDoPich.exe
+C:\Users\DuckVoador\source\repos\AhoraDoPich\AhoraDoPich\obj\Debug\AhoraDoPich.pdb

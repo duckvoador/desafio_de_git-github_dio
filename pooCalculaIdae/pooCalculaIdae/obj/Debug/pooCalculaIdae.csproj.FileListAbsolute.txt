@@ -1,0 +1,8 @@
+C:\Users\DuckVoador\source\repos\pooCalculaIdae\pooCalculaIdae\bin\Debug\pooCalculaIdae.exe.config
+C:\Users\DuckVoador\source\repos\pooCalculaIdae\pooCalculaIdae\bin\Debug\pooCalculaIdae.exe
+C:\Users\DuckVoador\source\repos\pooCalculaIdae\pooCalculaIdae\bin\Debug\pooCalculaIdae.pdb
+C:\Users\DuckVoador\source\repos\pooCalculaIdae\pooCalculaIdae\obj\Debug\pooCalculaIdae.csproj.AssemblyReference.cache
+C:\Users\DuckVoador\source\repos\pooCalculaIdae\pooCalculaIdae\obj\Debug\pooCalculaIdae.csproj.SuggestedBindingRedirects.cache
+C:\Users\DuckVoador\source\repos\pooCalculaIdae\pooCalculaIdae\obj\Debug\pooCalculaIdae.csproj.CoreCompileInputs.cache
+C:\Users\DuckVoador\source\repos\pooCalculaIdae\pooCalculaIdae\obj\Debug\pooCalculaIdae.exe
+C:\Users\DuckVoador\source\repos\pooCalculaIdae\pooCalculaIdae\obj\Debug\pooCalculaIdae.pdb

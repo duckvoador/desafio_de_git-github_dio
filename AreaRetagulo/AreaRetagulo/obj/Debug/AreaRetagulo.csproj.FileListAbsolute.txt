@@ -1,0 +1,8 @@
+C:\Users\DuckVoador\source\repos\AreaRetagulo\AreaRetagulo\bin\Debug\AreaRetagulo.exe.config
+C:\Users\DuckVoador\source\repos\AreaRetagulo\AreaRetagulo\bin\Debug\AreaRetagulo.exe
+C:\Users\DuckVoador\source\repos\AreaRetagulo\AreaRetagulo\bin\Debug\AreaRetagulo.pdb
+C:\Users\DuckVoador\source\repos\AreaRetagulo\AreaRetagulo\obj\Debug\AreaRetagulo.csproj.AssemblyReference.cache
+C:\Users\DuckVoador\source\repos\AreaRetagulo\AreaRetagulo\obj\Debug\AreaRetagulo.csproj.SuggestedBindingRedirects.cache
+C:\Users\DuckVoador\source\repos\AreaRetagulo\AreaRetagulo\obj\Debug\AreaRetagulo.csproj.CoreCompileInputs.cache
+C:\Users\DuckVoador\source\repos\AreaRetagulo\AreaRetagulo\obj\Debug\AreaRetagulo.exe
+C:\Users\DuckVoador\source\repos\AreaRetagulo\AreaRetagulo\obj\Debug\AreaRetagulo.pdb
